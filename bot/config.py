@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5292624113:AAGvawuK9kJVS8GSNEfubZ663MFVpCEva1A"
+    APP_ID = "12445947"
+    API_HASH = "d00b6acef9f26b6ec5168fb628285c7d"
+    DATABASE_URL = "postgres://rcdvvbuczvwsdh:ff2d7059819b442a0a33dea4bc37dd727029d8fc1aec9cc5ce19ffce6a073fb6@ec2-52-48-159-67.eu-west-1.compute.amazonaws.com:5432/d18dvrcj1l8sth"
+    SUDO_USERS = "649534825" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/worldofstl"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
