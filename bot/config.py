@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "649534825" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/worldofstl"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "555088982377-tj0re1b7o40f72qv1k0uvlh9bnu7319l.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "933695287644-kp537td8eg79ge95952dclq0mm4s2dni.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
